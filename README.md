@@ -10,6 +10,9 @@ Enviroment:
 * vim **editor**
 
 
+
+[UPDATE NOTES LINK](https://github.com/enlacee/devTool/blob/master/windows/c-sharp.md)
+
 ### Install and deploy with C-Sharp
 
 For install C-SHARP is necesary something of documentation: 
